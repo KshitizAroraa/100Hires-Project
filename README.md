@@ -202,6 +202,4 @@ research/
   research sessions rather than one final dump — the commit history itself
   is part of the deliverable.
 
-## Status
 
-🚧 In progress — see commit history for latest collection status.
