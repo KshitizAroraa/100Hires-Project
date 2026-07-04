@@ -1,0 +1,8 @@
+Title: Google Search Console: Why Your Rankings Are Wrong!
+Video ID: 4benrfW7NwA
+Published: 2025-09-17T16:55:52Z
+URL: https://www.youtube.com/watch?v=4benrfW7NwA
+
+---
+
+If you've gone inside of Google Search Console recently, you may have noticed some data like this. You're going to see your average position climbing. Now, you might think you produce some sort of amazing SEO result, but the truth is this is not what it appears to be. Because if you click on impressions, you'll see what's going on here. We're seeing a huge decline in impressions and an increase in average position. Clicks are staying about the
