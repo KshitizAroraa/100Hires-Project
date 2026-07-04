@@ -180,26 +180,37 @@ numbers — including building 13,000+ AI-generated pages in 3 hours and
 documenting a 466% traffic increase in 60 days. Practices what he teaches:
 Byword is the actual product he runs.
 
-## Repo structure
+
+## Repo Structure
 
 ```
 research/
 ├── sources.md              # Full expert list, links, annotations, verification log
 ├── linkedin-posts/         # Manually collected posts, organized by author
+│   ├── kevin-indig/        # 4 posts
+│   ├── lily-ray/           # 1 post
+│   ├── rand-fishkin/       # 3 posts
+│   ├── mike-king/          # 3 posts
+│   ├── aleyda-solis/       # 3 posts
+│   ├── marie-haynes/       # 3 posts
+│   ├── eli-schwartz/       # 3 posts
+│   ├── dan-petrovic/       # 3 posts
+│   └── jake-ward/          # 3 posts
 ├── youtube-transcripts/    # API-collected transcripts, organized by video
+│   └── nathan-gotch/       # 100 transcripts (2024–2026)
 └── other/                  # Podcast notes, newsletter excerpts, etc.
 ```
 
-## Methodology notes
+---
 
-- **YouTube transcripts** were collected via API rather than manual
-  transcription (see `research/other/collection-log.md` for the exact
-  method/tool used).
-- **LinkedIn posts** were collected manually, since LinkedIn does not offer
-  a public API for post content — each post retains its original URL and
-  publish date for attribution.
-- This repo is updated incrementally, with commits reflecting individual
-  research sessions rather than one final dump — the commit history itself
-  is part of the deliverable.
+## Methodology Notes
+
+YouTube transcripts were collected via API rather than manual transcription (see [`research/other/collection-log.md`](research/other/collection-log.md) for the exact method/tool used).
+
+LinkedIn posts were collected manually, since LinkedIn does not offer a public API for post content — each post retains its original URL and publish date for attribution.
+
+This repo is updated incrementally, with commits reflecting individual research sessions rather than one final dump — the commit history itself is part of the deliverable.
+
+---
 
 
